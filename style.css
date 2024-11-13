@@ -1,0 +1,13 @@
+h1{
+    color:brown;
+    background-color: crimson;
+}
+
+body{
+    background-color: darkslateblue;
+    background-image: url(imagens/images.jfif);
+    background-repeat: no-repeat;
+    display: flex;
+    background-size: cover;
+    
+}
