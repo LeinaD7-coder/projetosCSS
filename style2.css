@@ -1,4 +1,9 @@
 body{
     background: -webkit-gradient(linear, left top, right top, from(#cf352aec), to(#d34444));
+    color: transparent;
+    background: url(imagens/images.jfif) repeat;
+    -webkit-background-clip: text;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: rgb(0, 0, 0);
 
 }
